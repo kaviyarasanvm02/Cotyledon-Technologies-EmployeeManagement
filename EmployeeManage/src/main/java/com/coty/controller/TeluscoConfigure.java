@@ -7,7 +7,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @ComponentScan("com.coty")
-public class TeluscoConfigure 
+public class Configure 
 {
 
 	@Bean
